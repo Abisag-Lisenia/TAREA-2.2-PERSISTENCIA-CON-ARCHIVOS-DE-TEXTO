@@ -6,5 +6,5 @@ El objetivo principal es aplicar conceptos de persistencia de datos mediante el 
 - **Reporte General:** Incluye una función de lectura de archivos que procesa y despliega en pantalla todos los registros almacenados, facilitando el seguimiento de los estudiantes inscritos.
 - **Interfaz Interactiva:** El sistema se gestiona a través de un menú intuitivo que guía al usuario en cada operación, cumpliendo con los estándares de usabilidad requeridos. 
 - **Tecnologías Utilizadas:** 
-- Lenguaje: C++Librerías: <iostream>, <fstream> y <string>.  
-Conceptos aplicados: Estructuras de control, validación de errores, flujos de entrada/salida y manejo de archivos de texto.
+- Lenguaje: C++Librerías: iostream, fstream y string.  
+- Conceptos aplicados: Estructuras de control, validación de errores, flujos de entrada/salida y manejo de archivos de texto.
